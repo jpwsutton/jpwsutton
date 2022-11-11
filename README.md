@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm <a rel="me" href="https://mastodon.social/@jpwsutton">@jpwsutton@mastodon.social</a> on Mastodon.
+
+My blog is over at [jsutton.co.uk](https://jsutton.co.uk/)
+
 <!--
 **jpwsutton/jpwsutton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
